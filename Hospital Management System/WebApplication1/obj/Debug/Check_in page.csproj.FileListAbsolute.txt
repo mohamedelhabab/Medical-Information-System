@@ -1,0 +1,22 @@
+c:\users\mahmoud\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\mahmoud\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\mahmoud\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\Check_in page.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\mahmoud\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\obj\Debug\Check_in page.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\lenovo\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\lenovo\Desktop\Hospital Management System\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\lenovo\Desktop\Hospital Management System\WebApplication1\bin\WebApplication1.dll
+C:\Users\lenovo\Desktop\Hospital Management System\WebApplication1\bin\WebApplication1.pdb
+C:\Users\lenovo\Desktop\Hospital Management System\WebApplication1\obj\Debug\Check_in page.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Hospital Management System\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\lenovo\Desktop\Hospital Management System\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Hospital\Hospital Management System\WebApplication1\bin\WebApplication1.dll
+E:\Hospital\Hospital Management System\WebApplication1\bin\WebApplication1.pdb
+E:\Hospital\Hospital Management System\WebApplication1\obj\Debug\Check_in page.csprojResolveAssemblyReference.cache
+E:\Hospital\Hospital Management System\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Hospital\Hospital Management System\WebApplication1\obj\Debug\WebApplication1.pdb
